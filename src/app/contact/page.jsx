@@ -11,10 +11,14 @@ export const metadata = {
   description: "Contact description",
 };
 
+
+
 const ContactPage = () => {
   // const a = Math.random();
 
   // console.log(a);
+
+
 
   return (
     <div className={styles.container}>
